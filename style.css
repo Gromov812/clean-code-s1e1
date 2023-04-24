@@ -35,14 +35,14 @@
   display: flex;
 }
 .undone-tasks {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .tasks-list-element, .h3 {
-  list-style:none;
+  list-style: none;
 }
 .input,.button{
-  outline:none;
+  outline: none;
 }
 .button {
   background: none;
@@ -135,14 +135,14 @@
 
 /* Edit Task */
 .undone-tasks .tasks-list-element .input[type=text] {
-  display:none
+  display: none
 }
 
 .undone-tasks .tasks-list-element .edit-mode .input[type=text] {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .undone-tasks .tasks-list-element .edit-mode .label {
-  display:none;
+  display: none;
 }
